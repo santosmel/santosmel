@@ -1,4 +1,5 @@
 - 👋 Hi, I’m **Mel Santos**
+- 💼 My QA experience is more on **Manual/Functional Testing**.
 - 🌱 I’m currently learning **Test Automation** - Selenium, Java, TestNG
 
 
